@@ -361,5 +361,6 @@ class borrow{
 	borrowmanage frame = new borrowmanage();
 	frame.setSize(1920, 1080);
 	frame.setVisible(true);
+	frame.add(p1);
 	}
 }
